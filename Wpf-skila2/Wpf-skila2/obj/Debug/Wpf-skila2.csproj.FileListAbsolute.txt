@@ -59,3 +59,36 @@ C:\Users\Marlen\Desktop\Taller De Programacion III\taller-de-programacion-3-mast
 C:\Users\Marlen\Desktop\Taller De Programacion III\taller-de-programacion-3-master\taller-de-programacion-3-master\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.csproj.GenerateResource.Cache
 C:\Users\Marlen\Desktop\Taller De Programacion III\taller-de-programacion-3-master\taller-de-programacion-3-master\Wpf-skila2\Wpf-skila2\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Marlen\Desktop\Taller De Programacion III\taller-de-programacion-3-master\taller-de-programacion-3-master\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2_MarkupCompile.lref
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\bin\Debug\Wpf-skila2.exe.config
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.exe
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.pdb
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\bin\Debug\Wpf-skila2.exe
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\bin\Debug\Wpf-skila2.pdb
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.csprojResolveAssemblyReference.cache
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Acceso\V_Login.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Arriendos\V_AgregarArriendo.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Arriendos\V_ConsultarArriendo.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_ActualizarCliente.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_AgregarCliente.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_EliminarCliente.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\MainWindow.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_ActualizarPelicula.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_EliminarPelicula.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Acceso\V_Login.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Arriendos\V_AgregarArriendo.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Arriendos\V_ConsultarArriendo.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_ActualizarCliente.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_AgregarCliente.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Clientes\V_EliminarCliente.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\MainWindow.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_ActualizarPelicula.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_AgregarPelicula.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_EliminarPelicula.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\App.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2_MarkupCompile.cache
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2_MarkupCompile.lref
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Peliculas\V_AgregarPelicula.baml
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.g.resources
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf_skila2.Properties.Resources.resources
+C:\Users\Marlen\Documents\GitHub\sakila\Wpf-skila2\Wpf-skila2\obj\Debug\Wpf-skila2.csproj.GenerateResource.Cache
