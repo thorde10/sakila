@@ -1,0 +1,13 @@
+﻿<Window x:Class="Wpf_skila2.Acceso.V_Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="V_Login" Height="300" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="65,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="es-es" Text="Usuario"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="65,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="es-es" Text="Password"/></TextBlock>
+        <TextBox Name="txt_usuario" HorizontalAlignment="Left" Height="23" Margin="142,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox Name="txt_password" HorizontalAlignment="Left" Margin="142,137,0,0" VerticalAlignment="Top" Width="120" Height="16"/>
+        <Button Content="Ingresar" HorizontalAlignment="Left" Margin="168,207,0,0" VerticalAlignment="Top" Width="75" Click="verificaAcceso"/>
+
+    </Grid>
+</Window>

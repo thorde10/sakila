@@ -1,0 +1,23 @@
+﻿<Window x:Class="Wpf_skila2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="93" Margin="10,0,0,0" VerticalAlignment="Top" Width="497">
+            <MenuItem Header="Peliculas">
+                <MenuItem Header="Agregar Pelicula" HorizontalAlignment="Left" Click="agregarPelicula"/>
+                <MenuItem Header="Actualizar Pelicula" HorizontalAlignment="Left" Click="actualizarPelicula"/>
+                <MenuItem Header="Eliminar Pelicula" HorizontalAlignment="Left" Click="eliminarPelicula"/>
+            </MenuItem>
+            <MenuItem Header="Clientes">
+                <MenuItem Header="Agregar Cliente" HorizontalAlignment="Left" Click="agregarCliente"/>
+                <MenuItem Header="Actualizar Cliente" HorizontalAlignment="Left" Click="actualizarCliente"/>
+                <MenuItem Header="Eliminar Cliente" HorizontalAlignment="Left" Click="eliminarCliente"/>
+            </MenuItem>
+            <MenuItem Header="Arriendos">
+                <MenuItem Header="Agregar Arriendo" HorizontalAlignment="Left" Click="agregarArriendo"/>
+                <MenuItem Header="Consultar Arriendo" HorizontalAlignment="Left" Click="consultarArriendo"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>
