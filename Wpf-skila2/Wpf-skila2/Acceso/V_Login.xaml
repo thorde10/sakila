@@ -8,7 +8,6 @@
         <TextBox Name="txt_usuario" HorizontalAlignment="Left" Height="23" Margin="142,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <PasswordBox Name="txt_password" HorizontalAlignment="Left" Margin="142,137,0,0" VerticalAlignment="Top" Width="120" Height="16"/>
         <Button Content="Ingresar" HorizontalAlignment="Left" Margin="168,207,0,0" VerticalAlignment="Top" Width="75" Click="verificaAcceso"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="48,207,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
